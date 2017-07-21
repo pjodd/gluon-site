@@ -12,7 +12,7 @@ msgstr ""
 
 msgid "gluon-config-mode:welcome"
 msgstr ""
-"Welcome to the setup wizard of your new Freifunk Alpha Centauri node. "
+"Welcome to the setup wizard of your new Pjodd node. "
 "Please fill out the following form and submit it."
 
 msgid "gluon-config-mode:pubkey"
